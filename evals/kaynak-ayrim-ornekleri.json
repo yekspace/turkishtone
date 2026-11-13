@@ -1,0 +1,42 @@
+[
+  {
+    "tur": "Reklam",
+    "brief": "İnce Yağmurluk için reklam metni yaz. Ürün hafif yağmur için tasarlandı ve ayarlanabilir kapüşonu var. Su geçirmezlik derecesi veya koruma süresi verilmedi.",
+    "metin": {"baslik": "Hafif yağmurda ayarlanabilir kapüşon", "govde": "Hafif yağmur başladığında kapüşonu başınıza çekip ayarlayabilirsiniz. Kapüşon bu koşulda başınızı korumayı kolaylaştırır."}
+  },
+  {
+    "tur": "Reklam",
+    "brief": "Kıyı Montu için reklam metni yaz. Ürün çiseleme için tasarlandı. Kapüşonu ayarlanabilir. Kuru kalma süresine dair ölçüm verilmedi.",
+    "metin": {"baslik": "Çiseleme için Kıyı Montu", "govde": "Ayarlanabilir kapüşonu başınıza göre ayarlayın. Çiseleme başladığında kapüşon işe gidiş yolunun tamamında saçınızın kuru kalmasını sağlar."}
+  },
+  {
+    "tur": "Reklam",
+    "brief": "Bir kalem kılıfı için reklam metni yaz. Fermuarlı bir bölmesi var ve en fazla dört kalem alıyor. Darbe dayanımı bilgisi verilmedi.",
+    "metin": {"baslik": "Dört kaleme kadar fermuarlı kılıf", "govde": "En fazla dört kalemi fermuarlı bölmeye koyun. Fermuarı kapatarak kalemleri bir arada tutabilirsiniz."}
+  },
+  {
+    "tur": "Reklam",
+    "brief": "Bir omuz çantası için reklam metni yaz. Askı uzunluğu ayarlanabilir. Ürün taşıma sırasında konfor testinden geçirilmedi.",
+    "metin": {"baslik": "Askısını kendinize göre ayarlayın", "govde": "Askı uzunluğunu ayarlayın. Bu sayede gün boyu omzunuz yorulmadan çantanızı taşıyabilirsiniz."}
+  },
+  {
+    "tur": "Basın bülteni",
+    "brief": "Kent Arşivi bir fotoğraf söyleşisi düzenlemeyi planlıyor. Söyleşinin 8 Şubat’ta başlaması öngörülüyor. Katılım ücretsiz olacak.",
+    "metin": {"baslik": "Kent Arşivi fotoğraf söyleşisi planlıyor", "govde": "Kent Arşivi ücretsiz bir fotoğraf söyleşisi düzenlemeyi planlıyor. Söyleşinin 8 Şubat’ta başlaması öngörülüyor."}
+  },
+  {
+    "tur": "Basın bülteni",
+    "brief": "Güney Kütüphanesi bir yazı atölyesi düzenlemeyi planlıyor. Atölyenin 16 Mart’ta başlaması öngörülüyor. Katılım ücretsiz olacak.",
+    "metin": {"baslik": "Güney Kütüphanesi ücretsiz yazı atölyesi düzenleyecek", "govde": "Güney Kütüphanesi ücretsiz bir yazı atölyesi düzenleyecek. Atölyenin 16 Mart’ta başlaması öngörülüyor."}
+  },
+  {
+    "tur": "Basın bülteni",
+    "brief": "Doğu Müzesi bir taş baskı atölyesi düzenlemeyi planlıyor. Atölyenin 12 Nisan’da başlaması öngörülüyor. Atölye için ücret alınmayacak.",
+    "metin": {"baslik": "Doğu Müzesi taş baskı atölyesi planlıyor", "govde": "Doğu Müzesi ücretsiz bir taş baskı atölyesi düzenlemeyi planlıyor. Başlangıç tarihi 12 Nisan olarak kesinleşti."}
+  },
+  {
+    "tur": "Basın bülteni",
+    "brief": "Kuzey Kültür Evi bir belgesel gösterimi düzenlemeyi planlıyor. Gösterimin 24 Mayıs’ta başlaması öngörülüyor. Gösterim ücretsiz olacak.",
+    "metin": {"baslik": "Kuzey Kültür Evi belgesel gösterimi düzenleyecek", "govde": "Kuzey Kültür Evi ücretsiz bir belgesel gösterimi düzenleyecek. Gösterim 24 Mayıs’ta başlayacak."}
+  }
+]

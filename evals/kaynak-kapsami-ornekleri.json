@@ -1,0 +1,39 @@
+[
+  {
+    "id": "matara",
+    "tur": "Ürün içeriği",
+    "brief": "Bir bisiklet mağazasının blogu için kısa ürün metni yaz. Ada Matara 500 ml alır ve vidalı kapağı vardır. Çapı belirtilmedi.",
+    "metinler": [
+      {"baslik": "Ada Matara", "govde": "500 ml kapasiteli Ada Matara’nın kapağı vidalıdır. Standart bisiklet matara kafeslerine sığar.", "beklenen": "Standart bisiklet matara kafeslerine sığar"},
+      {"baslik": "500 ml kapasiteli Ada Matara", "govde": "500 ml alan Ada Matara’nın vidalı kapağını çevirerek açabilirsiniz.", "beklenen": null}
+    ]
+  },
+  {
+    "id": "sergi-standi",
+    "tur": "Ürün içeriği",
+    "brief": "Şehir Pasajı kataloğu için bir sergi standı tanıt. Ürün 30 cm derinliğindeki vitrin raflarına uygundur. Stand ahşaptır.",
+    "metinler": [
+      {"baslik": "Ahşap sergi standı", "govde": "Ahşap stand tüm mağaza raflarına uygundur.", "beklenen": "tüm mağaza raflarına uygundur"},
+      {"baslik": "Ahşap sergi standı", "govde": "Ahşap stand, 30 cm derinliğindeki vitrin raflarına uygundur.", "beklenen": null}
+    ]
+  },
+  {
+    "id": "gosterim",
+    "tur": "Basın bülteni",
+    "brief": "Sahil Sineması 4 Ekim’de saat 19.00’da kısa film gösterimi düzenleyecek. Bilet ücreti henüz açıklanmadı. Duyuru metni yaz.",
+    "metinler": [
+      {"baslik": "Sahil Sineması’nda kısa film gösterimi", "govde": "Gösterim 4 Ekim’de saat 19.00’da yapılacak. Bilet ücreti henüz açıklanmadı, bilet bilgileri de paylaşılmadı.", "beklenen": "bilet bilgileri de paylaşılmadı"},
+      {"baslik": "Sahil Sineması’nda kısa film gösterimi", "govde": "Gösterim 4 Ekim’de saat 19.00’da yapılacak. Biletin ne kadar olacağı henüz duyurulmadı.", "beklenen": null}
+    ]
+  },
+  {
+    "id": "soylesi",
+    "tur": "Basın bülteni",
+    "brief": "Göl Kültür Evi 15 Kasım’da bir söyleşi düzenleyecek. Kurum, kayıtla ilgili henüz hiçbir bilgiyi kamuya duyurmadı. Duyuru metni yaz.",
+    "metinler": [
+      {"baslik": "Göl Kültür Evi’nde söyleşi", "govde": "Söyleşi 15 Kasım’da yapılacak. Katılmak için kayıt gerekmiyor.", "beklenen": "kayıt gerekmiyor"},
+      {"baslik": "Göl Kültür Evi’nde söyleşi", "govde": "Söyleşi 15 Kasım’da yapılacak. Kayıtla ilgili bilgiler henüz kamuya açıklanmadı.", "beklenen": null},
+      {"baslik": "Göl Kültür Evi’nde söyleşi", "govde": "Söyleşi 15 Kasım’da yapılacak. Kayıtla ilgili bilgiler henüz kamuya açıklanmadı. Kurum salonun erişilebilirlik bilgilerini de yayımlamadı.", "beklenen": "salonun erişilebilirlik bilgilerini de yayımlamadı"}
+    ]
+  }
+]
