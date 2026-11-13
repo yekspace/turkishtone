@@ -1,4 +1,7 @@
-<img src="assets/turkishtone-logo.png" alt="TurkishTone tırnaklı logosu" width="240">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/turkishtone-dark.png">
+  <img src="assets/turkishtone-logo.png" alt="TurkishTone tırnaklı logosu" width="240">
+</picture>
 
 # TurkishTone
 
