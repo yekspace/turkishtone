@@ -1,7 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/turkishtone-dark.png">
-  <img src="assets/turkishtone-logo.png" alt="TurkishTone tırnaklı logosu" width="240">
-</picture>
+<p>
+  <img src="assets/turkishtone-dark.png#gh-dark-mode-only" alt="TurkishTone tırnaklı logosu" width="240">
+  <img src="assets/turkishtone-logo.png#gh-light-mode-only" alt="TurkishTone tırnaklı logosu" width="240">
+</p>
 
 # TurkishTone
 
